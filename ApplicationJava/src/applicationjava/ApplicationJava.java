@@ -9,6 +9,7 @@ package applicationjava;
  * @author user
  */
 public class ApplicationJava {
+    private int id;
 
     /**
      * @param args the command line arguments
